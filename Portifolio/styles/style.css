@@ -118,3 +118,7 @@ body {
         width: auto;
     }
 }
+.questionario {
+    width: 450px;
+    height: 22px;
+}
